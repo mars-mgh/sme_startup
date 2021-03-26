@@ -19,10 +19,10 @@ Data are pulled from r/stratups and r/smallbusiness subreddits. Both are among t
 ---
 
 ### Notebook Index
-- [01 | Data Collection](01_data_collection.ipynb)
-- [02 | EDA & Cleaning](02_eda.ipynb)
-- [03 | Model](03_model.ipynb)
-- [04 | Sentiment Analysis](04_sentiment_analysis.ipynb)
+- [01 | Data Collection](./code/01_data_collection.ipynb)
+- [02 | EDA & Cleaning](./code/02_eda.ipynb)
+- [03 | Model](./code/03_model.ipynb)
+- [04 | Sentiment Analysis](./code/04_sentiment_analysis.ipynb)
 
 ![Workflow](./presentation/workflow.png?raw=true "Workflow")
 
